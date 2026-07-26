@@ -19,7 +19,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 **In the lab:** UniPass (forward-only training) · ZiZu (governance-first agent platform) · Radically (distributed multi-modal inference)
 
-![ison-py downloads](https://img.shields.io/pypi/dm/ison-py?label=ison-py&color=38bdf8) ![maple-oss downloads](https://img.shields.io/pypi/dm/maple-oss?label=maple-oss&color=8b5cf6) ![rudradb-opin downloads](https://img.shields.io/pypi/dm/rudradb-opin?label=rudradb-opin&color=38bdf8)
+[![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin) [![contexel downloads](https://static.pepy.tech/badge/contexel)](https://pepy.tech/projects/contexel)
 
 ## 📄 Research
 
