@@ -19,8 +19,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 **In the lab:** UniPass (forward-only training) · ZiZu (governance-first agent platform) · Radically (distributed multi-modal inference)
 
-[![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin) [![contexel downloads](https://static.pepy.tech/badge/contexel)](https://pepy.tech/projects/contexel)
-
+[![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin)
 ## 📄 Research
 
 11 publications on AI governance, privacy-preserving ML, agent memory, and multi-agent systems — [Google Scholar](https://scholar.google.com/citations?user=YV8i1eoAAAAJ)
