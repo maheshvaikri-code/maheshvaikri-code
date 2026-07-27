@@ -15,7 +15,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 | **[RudraDB](https://rudradb.com)** | Relationship-aware vector + knowledge-graph database | `pip install rudradb-opin` |
 | **[Contexel](https://github.com/maheshvaikri-code/contexel)** | Deterministic context-economy stages for code-writing agents — dedupe, relevance scoring, token budgets | `pip install contexel` |
 | **RudraMem** | Deterministic agentic memory — 85.4% LongMemEval, 13× faster ingestion, zero LLM extraction calls | coming soon |
-| **[SnapLLM](https://github.com/snapllm/snapllm)** | Multi-model serving — sub-ms model switching, 20B inference on CPU at ~38 tok/s | — |
+| **[SnapLLM](https://github.com/snapllm/snapllm)** | Multi-model serving — sub-ms model switching| — |
 
 **In the lab:** UniPass (forward-only training) · ZiZu (governance-first agent platform) · Radically (distributed multi-modal inference)
 
