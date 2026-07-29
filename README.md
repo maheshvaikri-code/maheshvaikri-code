@@ -24,7 +24,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 11 publications on AI governance, privacy-preserving ML, agent memory, and multi-agent systems — [Google Scholar](https://scholar.google.com/citations?user=YV8i1eoAAAAJ)
 
-## 🤝 Connect
+## 🤝 Connect 
 
 [LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev)
 
