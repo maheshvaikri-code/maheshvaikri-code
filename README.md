@@ -19,14 +19,14 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 **In the lab:** UniPass (forward-only training) · ZiZu (governance-first agent platform) · Radically (distributed multi-modal inference)
 
-**ISON** [![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) · **MAPLE** [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) · **RudraDB** [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin)
+**ISON** [![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) · **ISON** [![ison-py downloads](https://static.pepy.tech/badge/ison-graph)](https://pepy.tech/projects/ison-graph) · **MAPLE** [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) · **RudraDB** [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin)
 ## 📄 Research
 
 11 publications on AI governance, privacy-preserving ML, agent memory, and multi-agent systems — [Google Scholar](https://scholar.google.com/citations?user=YV8i1eoAAAAJ)
 
 ## 🤝 Connect 
 
-[LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev)
+[LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev) · [graph.ison.dev](https://graph.ison.dev)
 
 
 [![SkillDen](https://skillden.cv/card/maheshvaikri-code.svg?theme=resume)](https://skillden.cv/u/maheshvaikri-code?theme=resume)
