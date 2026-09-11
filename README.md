@@ -4,6 +4,8 @@
 
 I build open infrastructure for trustworthy agentic AI. One principle behind everything here:
 **AI systems should be verifiable, not just impressive.**
+**I'm a First Principles Problem**
+
 
 ## 🔷 The Agentic Stack
 
