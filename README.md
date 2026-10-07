@@ -31,6 +31,6 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 [LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev) · [graph.ison.dev](https://graph.ison.dev)
 
-[![SkillDen](https://skillden.cv/card/maheshvaikri-code.svg?theme=certificate)](https://veridential.com/v/SG-E3XU-N7RJ)
+[![SkillDen][<img width="1200" height="630" alt="maheshvaikri-code-skillden-certificate" src="https://github.com/user-attachments/assets/03ebe1a2-437f-4649-b38d-481552518e9b" />](https://veridential.com/v/SG-E3XU-N7RJ)
 
 
