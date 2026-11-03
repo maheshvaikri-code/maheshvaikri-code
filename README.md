@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="maheshvaikri-code-skillden-banner" src="https://github.com/user-attachments/assets/d14e36cf-2f2a-4679-a3b7-6e15f4e3f692" />
+<img width="1584" height="396" alt="maheshvaikri-code-skillden-banner" src="https://github.com/user-attachments/assets/3854cfa3-d45b-44e0-a4dc-a7b3a2b11fec" />
+
 # Hi, I'm Mahesh Vaikri 👋
 
 **AI Architect @ Dell Technologies · Founder @ AroorA AI Labs · 18+ years building enterprise systems**
@@ -31,6 +32,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 [LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev) · [graph.ison.dev](https://graph.ison.dev)
 
-[<img width="1200" height="630" alt="maheshvaikri-code-skillden-certificate" src="https://github.com/user-attachments/assets/03ebe1a2-437f-4649-b38d-481552518e9b" />](https://veridential.com/v/SG-E3XU-N7RJ)
+<img width="1200" height="630" alt="maheshvaikri-code" src="https://github.com/user-attachments/assets/b5be24a9-65f8-4b76-aa92-2b579f11c5c3" />
+
 
 
