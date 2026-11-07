@@ -3,7 +3,7 @@
 
 # Hi, I'm Mahesh Vaikri 👋
 
-**AI Architect @ Dell Technologies · Founder @ AroorA AI Labs · 18+ years building enterprise systems**
+**AI Architect @ Dell Technologies · Founder @ AroorA AI Labs · 19+ years building enterprise systems**
 
 I build open infrastructure for trustworthy agentic AI. One principle behind everything here:
 **AI systems should be verifiable, not just impressive.**
