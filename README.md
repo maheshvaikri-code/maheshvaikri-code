@@ -1,5 +1,4 @@
-<img width="1584" height="396" alt="maheshvaikri-code-skillden-banner" src="https://github.com/user-attachments/assets/f7d8ddc4-6111-4d95-b5a7-c26d063f5adf" />
-
+<img width="1584" height="396" alt="maheshvaikri-code-skillden-banner" src="https://github.com/user-attachments/assets/3d1cb7e9-5b75-4970-8d9b-b917403a5c1c" />
 
 # Hi, I'm Mahesh Vaikri 👋
 
@@ -33,8 +32,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 [LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev) · [graph.ison.dev](https://graph.ison.dev)
 
-<img width="1200" height="630" alt="maheshvaikri-code" src="https://github.com/user-attachments/assets/65d776ec-1a29-47f8-b1a8-bba7920f56ac" />
-
+<img width="1200" height="630" alt="maheshvaikri-code" src="https://github.com/user-attachments/assets/b8baef1a-a259-441d-83b4-e0d4c00deb55" />
 
 
 
