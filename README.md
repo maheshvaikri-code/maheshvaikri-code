@@ -1,8 +1,9 @@
-<img width="1584" height="396" alt="maheshvaikri-code-skillden-banner" src="https://github.com/user-attachments/assets/3d1cb7e9-5b75-4970-8d9b-b917403a5c1c" />
+<img width="1584" height="396" alt="maheshvaikri-code-skillden-banner" src="https://github.com/user-attachments/assets/7ee010ff-1f1f-42eb-9413-12f378c92749" />
+
 
 # Hi, I'm Mahesh Vaikri 👋
 
-**AI Architect @ Dell Technologies · Founder @ AroorA AI Labs · 19+ years building enterprise systems**
+**AI Architect @ Dell Technologies ·  19+ years building enterprise systems**
 
 I build open infrastructure for trustworthy agentic AI. One principle behind everything here:
 **AI systems should be verifiable, not just impressive.**
@@ -23,7 +24,7 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 **In the lab:** UniPass (forward-only training) · ZiZu (governance-first agent platform) · Radically (distributed multi-modal inference)
 
-**ISON** [![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) · **ISON** [![ison-py downloads](https://static.pepy.tech/badge/ison-graph)](https://pepy.tech/projects/ison-graph) · **MAPLE** [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) · **RudraDB** [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin) · **Contexel** [![rudradb-opin downloads](https://static.pepy.tech/badge/contexel)](https://pepy.tech/projects/contexel)
+**ISON** [![ison-py downloads](https://static.pepy.tech/badge/ison-py)](https://pepy.tech/projects/ison-py) · **ISONGraph** [![ison-py downloads](https://static.pepy.tech/badge/ison-graph)](https://pepy.tech/projects/ison-graph) · **MAPLE** [![maple-oss downloads](https://static.pepy.tech/badge/maple-oss)](https://pepy.tech/projects/maple-oss) · **RudraDB** [![rudradb-opin downloads](https://static.pepy.tech/badge/rudradb-opin)](https://pepy.tech/projects/rudradb-opin) · **Contexel** [![rudradb-opin downloads](https://static.pepy.tech/badge/contexel)](https://pepy.tech/projects/contexel)
 ## 📄 Research
 
 11 publications on AI governance, privacy-preserving ML, agent memory, and multi-agent systems — [Google Scholar](https://scholar.google.com/citations?user=YV8i1eoAAAAJ)
@@ -32,7 +33,8 @@ I build open infrastructure for trustworthy agentic AI. One principle behind eve
 
 [LinkedIn](https://www.linkedin.com/in/maheshvaikri) · [rudradb.com](https://rudradb.com) · [ison.dev](https://ison.dev) · [graph.ison.dev](https://graph.ison.dev)
 
-<img width="1200" height="630" alt="maheshvaikri-code" src="https://github.com/user-attachments/assets/b8baef1a-a259-441d-83b4-e0d4c00deb55" />
+<img width="1200" height="630" alt="maheshvaikri-code" src="https://github.com/user-attachments/assets/e37e315f-25fc-4365-b822-5687166d71ec" />(https://veridential.com/v/SG-E3XU-N7RJ)
+
 
 
 
